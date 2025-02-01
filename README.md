@@ -34,8 +34,8 @@ This project is a **collection of five classic games** implemented in Python. Th
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-repo/computer-project.git
-   cd computer-project
+   git clone https://github.com/aryand2006/ComputerProjectClassXI-FiveGamesByABADAS.git
+   cd ComputerProjectClassXI-FiveGamesByABADAS
    ```
 
 2. **Run the program**
