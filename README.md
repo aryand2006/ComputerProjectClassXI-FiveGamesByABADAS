@@ -1,8 +1,8 @@
 # COMPUTER PROJECT CLASS XI (2022-2023) 🎮  
 
-### Made by:  
+### Made by:
+- **Aryan Daga** 
 - **Amartya Bagchi**  
-- **Aryan Daga**  
 - **Aman Sinha**  
 #### Class XI-G, DPSRKP  
 📅 **Finished on: 26 December 2022**  
